@@ -1,4 +1,4 @@
-PRAGMA foreign_keys = true;
+-- PRAGMA foreign_keys = true; é o comando para não deletar tabelas que contem pk e estão sendo usadas
 
 -- script DDL
 
